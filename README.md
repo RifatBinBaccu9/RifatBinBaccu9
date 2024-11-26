@@ -4,7 +4,9 @@ A full time web developer
 ## 💫 About Me
 Fullstack web developer with a solid foundation in web development technologies. Passionate about problem-solving and continuously expanding technical skills. Adept at applying the right tools to the right tasks and solving issues with patience and perseverance.
 
-**RifatBinBaccu9/RifatBinBaccu9**
+### 🌱 Currently learning:
+ ▪ HTML & CSS(Tailwindcss/Bootstrap)                                                                                          ▪ JAVASCRPT(React.js)                                                                                                       
+ ▪ PHP(Laravel)                                                                                                               ▪ MySql
 
 Here are some ideas to get you started:
 
