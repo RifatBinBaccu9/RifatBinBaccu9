@@ -2,7 +2,7 @@
 A full time web developer.
 🏠 Living: Khulna, bangladash.
 ## 💫 About Me
-idman
+Fullstack web developer with a solid foundation in web development technologies, including PHP (Laravel), JavaScript, HTML/CSS. Passionate about problem-solving and continuously expanding technical skills. Adept at applying the right tools to the right tasks and solving issues with patience and perseverance.
 
 **RifatBinBaccu9/RifatBinBaccu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
