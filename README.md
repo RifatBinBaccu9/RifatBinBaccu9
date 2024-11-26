@@ -4,7 +4,7 @@ A full time web developer
 ## 💫 About Me
 Fullstack web developer with a solid foundation in web development technologies, including PHP (Laravel), JavaScript(React.js), HTML/CSS(Tailwindcss/Bootstrap), MySql. Passionate about problem-solving and continuously expanding technical skills. Adept at applying the right tools to the right tasks and solving issues with patience and perseverance.
 
-**RifatBinBaccu9/RifatBinBaccu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RifatBinBaccu9/RifatBinBaccu9**
 
 Here are some ideas to get you started:
 
