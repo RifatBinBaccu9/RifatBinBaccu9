@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Md. Rifat Mia
-#### A full time web developer 
-🏠 Living: Khulna, bangladash.
+A full time web developer                                                                                                  
+ 🏠 Living: Khulna, bangladash.
 ## 💫 About Me
 Fullstack web developer with a solid foundation in web development technologies, including PHP (Laravel), JavaScript(React.js), HTML/CSS(Tailwindcss/Bootstrap), MySql. Passionate about problem-solving and continuously expanding technical skills. Adept at applying the right tools to the right tasks and solving issues with patience and perseverance.
 
