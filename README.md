@@ -1,7 +1,8 @@
 <p align="center">
   <img src="" alt="MERN stack developer"/>
 </p>
-## 👋 Hello, I'm Md. Rifat Mia
+
+# 👋 Hello, I'm Md. Rifat Mia
 A full time web developer                                                                                                  
  🏠 Living: Khulna, bangladash.
 ## 💫 About Me
