@@ -16,18 +16,6 @@ Fullstack web developer with a solid foundation in web development technologies.
 
   
 
-
-
-Hello, I'm **@nurhanulislamratul**  
-A passionate **Web Developer** focused on building **scalable** and **user-friendly applications**.  
-Currently expanding my knowledge and skill set in the following areas:
-
-🌱 **Currently learning**:
-- React JS
-- Node JS
-- Express JS
-- MongoDB
-
 I am actively seeking opportunities to collaborate on exciting web development projects, especially those centered on creating **innovative** and **efficient platforms**.  
 📫 You can reach me via [email](mailto:ratulislam890bd@gmail.com).
 
