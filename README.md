@@ -17,7 +17,7 @@ Fullstack web developer with a solid foundation in web development technologies.
   
 
 I am actively seeking opportunities to collaborate on exciting web development projects, especially those centered on creating **innovative** and **efficient platforms**.  
-📫 You can reach me via [email](mailto:ratulislam890bd@gmail.com).
+📫 You can reach me via [email](mailto:rifatbinbaccu@gmail.com).
 
 ⚡ **Fun Fact**: I enjoy solving complex problems, especially when there's **coffee** involved! ☕💻
 
@@ -25,10 +25,10 @@ I am actively seeking opportunities to collaborate on exciting web development p
 
 ## 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurhanulislamratul)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nurhanulislamratul)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurhanulislamratul)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ratulislam890bd)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/nurhanulislamratul](https://www.facebook.com/RifatBinBaccu))  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]()  
 
 ---
 
