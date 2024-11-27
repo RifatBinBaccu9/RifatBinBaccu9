@@ -46,12 +46,3 @@ I am actively seeking opportunities to collaborate on exciting web development p
 > _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
 
 ---
-
-## 💰 Support My Work
-
-If you enjoy my projects or would like to support my journey, feel free to buy me a coffee!  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nurhanulislamratul)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=nurhanulislamratul&icon=0&color=0)](https://visitcount.itsvg.in)
