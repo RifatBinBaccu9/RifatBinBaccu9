@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/XsxZPjG/rifat.jpg" alt="MERN stack developer"/>
+  <img src="" alt="MERN stack developer"/>
 </p>
 
 <h1> 👋 Hello, I'm Md. Rifat Mia </h1>
