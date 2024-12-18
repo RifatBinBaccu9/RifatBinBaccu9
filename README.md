@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/9N6D7Gq/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner.png" alt="MERN stack developer" heigh="500"/>
+  <img src="https://i.ibb.co.com/9N6D7Gq/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner.png" alt="MERN stack developer" heigh="900"/>
 </p>
 
 <h1> 👋 Hello, I'm Md. Rifat Mia </h1>
