@@ -8,6 +8,8 @@ Web developer with a solid foundation in web development technologies. Passionat
 🌱 **Currently learning**:
 - Pythone
 - React.Js
+- Next.Js
+- TypeScript
 - Laravel
 
 ## 📊 GitHub Stats
