@@ -11,16 +11,11 @@ Web developer with a solid foundation in web development technologies. Passionat
 - TypeScript
 - Laravel
 
-## 📊 GitHub Stats
+## 📈 My GitHub Stats
+### GitHub Stars
 
-![Rifat Bin Baccu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifatBinBaccu9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=rifatbinbaccu9&show_icons=true&theme=radical)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RifatBinBaccu9&theme=dark&hide_border=false)
+### Top Languages
 
----
-
-## ✍️ Developer Quote
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatbinbaccu9&layout=compact)](https://github.com/rifatbinbaccu9/github-readme-stats)
