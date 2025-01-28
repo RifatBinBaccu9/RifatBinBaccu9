@@ -9,7 +9,6 @@ Web developer with a solid foundation in web development technologies. Passionat
 - Pythone
 - Next.Js
 - TypeScript
-- Laravel
 
 ## 📈 My GitHub Stats
 ### GitHub Stars
