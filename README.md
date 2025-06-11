@@ -20,7 +20,7 @@ I'm a passionate Web Developer with a strong foundation in modern web technologi
 
 ## 🌱 Currently Learning
 
-- 🐍 Python  
+- 🐍 Dart  
 - ⚛️ Next.js  
 - 🟦 TypeScript
 
