@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Developer who loves building web apps that are fast, user-friendly, and scalable. I focus on **clean code**, **performance**, and **good design**.
+I'm a passionate Web Developer who loves building web apps that are fast, user-friendly, and scalable. I focus on **clean code**, **performance**, and **good design**.
 
-- 🔧 **Tech Stack**: HTML, CSS, JavaScript, React, Node.js, MongoDB  
+- 🔧 **Tech Stack**: HTML, CSS, JavaScript, React, Node.js.  
 - 🎯 **Interests**: UI/UX, optimization, and building scalable full-stack apps  
 - 🧠 **Philosophy**: Right tools for the right task. Always code with **clarity**, **patience**, and **purpose**.
 
@@ -39,9 +39,9 @@ I'm a passionate Full-Stack Developer who loves building web apps that are fast,
 
 ## 🌐 Connect with Me
 
-- 🔗 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- 🔗 **Portfolio**: [rifat.com]([https://your-portfolio-link.com](https://rifatmia.netlify.app/))  
+- 💼 **LinkedIn**: [linkedin.com/in/rifat]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-rifat-mia-87a35229b/))  
+- 📧 **Email**: [rifatbinbaccu@gmail.com](mailto:rifatbinbaccu@gmail.com)  
 
 ---
 
