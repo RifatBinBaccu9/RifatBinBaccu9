@@ -1,6 +1,6 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=👋+Hi,+I'm+Md.+Rifat+Mia;💻+Web+Developer;🌍+Based+in+Khulna,+Bangladesh" alt="Typing SVG" />
-</h2>
+## 👋 Hi, I'm Md. Rifat Mia
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=💻+Web+Developer;🌍+Based+in+Khulna,+Bangladesh" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
@@ -12,7 +12,7 @@
 
 I'm a passionate Web Developer who loves building web apps that are fast, user-friendly, and scalable. I focus on **clean code**, **performance**, and **good design**.
 
-- 🔧 **Tech Stack**: HTML, CSS, JavaScript, React, Node.js.  
+- 🔧 **Tech Stack**: HTML, CSS, JavaScript, React, Node.js  
 - 🎯 **Interests**: UI/UX, optimization, and building scalable full-stack apps  
 - 🧠 **Philosophy**: Right tools for the right task. Always code with **clarity**, **patience**, and **purpose**.
 
@@ -39,12 +39,12 @@ I'm a passionate Web Developer who loves building web apps that are fast, user-f
 
 ## 🌐 Connect with Me
 
-- 🔗 **Portfolio**: [rifat.com]((https://rifatmia.netlify.app/))  
-- 💼 **LinkedIn**: [linkedin.com/in/rifat]((https://www.linkedin.com/in/md-rifat-mia-87a35229b/))  
+- 🔗 **Portfolio**: [rifat.com](https://rifatmia.netlify.app/)  
+- 💼 **LinkedIn**: [linkedin.com/in/rifat](https://www.linkedin.com/in/md-rifat-mia-87a35229b/)  
 - 📧 **Email**: [rifatbinbaccu@gmail.com](mailto:rifatbinbaccu@gmail.com)  
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;+Check+out+my+repos!" alt="Typing SVG" />
-</h1>
+## 🙌 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;+Check+out+my+repos!" alt="Typing SVG" />
