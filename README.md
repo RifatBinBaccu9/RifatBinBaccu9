@@ -39,8 +39,8 @@ I'm a passionate Web Developer who loves building web apps that are fast, user-f
 
 ## 🌐 Connect with Me
 
-- 🔗 **Portfolio**: [rifat.com]([https://your-portfolio-link.com](https://rifatmia.netlify.app/))  
-- 💼 **LinkedIn**: [linkedin.com/in/rifat]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-rifat-mia-87a35229b/))  
+- 🔗 **Portfolio**: [rifat.com]((https://rifatmia.netlify.app/))  
+- 💼 **LinkedIn**: [linkedin.com/in/rifat]((https://www.linkedin.com/in/md-rifat-mia-87a35229b/))  
 - 📧 **Email**: [rifatbinbaccu@gmail.com](mailto:rifatbinbaccu@gmail.com)  
 
 ---
