@@ -45,6 +45,6 @@ I'm a passionate Full-Stack Developer who loves building web apps that are fast,
 
 ---
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!+⭐+Check+out+my+repos!" alt="Typing SVG" />
-</p>
+</h1>
